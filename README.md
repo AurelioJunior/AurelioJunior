@@ -3,7 +3,6 @@
 - 🔭 Atualmente, estou trabalhando como front-end
 - 🌱 Sou universitário, mas estudando a linguagem python por fora
 - 👯 Estou aqui para aprender e poder evoluir minhas habilidades, mas também para mostrar minhas conquistas no mundo da programação
-- 😄  Ele/Dele
 
 <div>
     <a href="https://github.com/AurelioJunior">
