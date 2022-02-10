@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Aurélio Junior!
 
-- 🔭 Atualmente, estou trabalhando como front-end
-- 🌱 Sou universitário, mas estudando a linguagem python por fora
+- 🔭 Atualmente, estou cada dia mais buscando minha evolução através do aprendizado no mundo da tecnologia
+- 🌱 Sou estudande do 3 período de Ciência da Computação, apaixonado por C#
 - 👯 Estou aqui para aprender e poder evoluir minhas habilidades, mas também para mostrar minhas conquistas no mundo da programação
 
 <div>
